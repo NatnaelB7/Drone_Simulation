@@ -8,8 +8,6 @@ Simulate a drone in a VR environment of Genova, Italy.
 - [Used Tools](#used-tools)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
